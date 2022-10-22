@@ -1,0 +1,18 @@
+pong_demo 
+=========
+A simple pong demo game written in C++11 using SDL library
+
+Requirements
+------------
+- g++
+- SDL2 
+- SDL2 ttf
+- SDL2 image
+
+Installation and Running
+------------------------
+Just run `make` then run the game `bin/release/pong` (use `bin/debug/pong` if you want debugging information)
+
+
+
+

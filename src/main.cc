@@ -30,7 +30,7 @@ int main() {
 			SDL_WINDOW_SHOWN);
 
 	SDL_Renderer *renderer = SDL_CreateRenderer(window, -1, SDL_RENDERER_ACCELERATED);
-	TTF_Font *score_font = TTF_OpenFont("DejaVuSansMono.ttf", 40);
+	TTF_Font *score_font = TTF_OpenFont("res/DejaVuSansMono.ttf", 40);
 	
 
 	
